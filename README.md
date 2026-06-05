@@ -238,7 +238,7 @@
             </div>
             <div class="card">
                 <h3>2. Cells & Markdown</h3>
-                <p>Jupyter lab has external libraries or packages of pre-written code, that can be used for data analysis, math, and plotting. Such as Numpy                          ,MatplotLib, Scipy. Normally one would import the modules as:
+                <p>Jupyter lab has external libraries or packages of pre-written code, that can be used for data analysis, math, and plotting. Such as Numpy                          ,MatplotLib, Scipy. Normally one would import the modules as:<br>
                   import numpy as np <br>
                   import scipy as sp<br>
                    import matplotlib.pyplot as plt <br>
