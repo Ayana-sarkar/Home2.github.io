@@ -233,28 +233,32 @@
     </section>
 
     <section id="curriculum" class="curriculum">
-        <h2>What You'll Learn</h2>
-        <div class="grid">
+     <h2>Basics</h2>
             <div class="card">
-                <h3>1. Interface & Setup</h3>
-                <p>Install Anaconda, launch JupyterLab, and master the left sidebar, file browser, and tabbed layouts.</p>
+                <h3>1. External Libraries</h3>
+                <p>Jupyter lab has external libraries or packages of pre-written code, that can be used for data analysis, math, and plotting. Such as Numpy ,MatplotLib, Scipy. Normally one would import the modules as : <br> 
+                import numpy as np<br> 
+                import scipy as sp <br>
+                import matplotlib . pyplot as plt <br>
+                from math import sin , pi <br>
+                These statements as np and as plt create aliases (shortcuts). Without these aliases, your code would look much more cluttered, like matplotlib.pyplot.plot(tvec, xvec).<br> 
+                plt . legend ( ) <br> 
+                plt tells Python: "Look inside the Matplotlib plotting module." </p> 
             </div>
             <div class="card">
-                <h3>2. Cells & Markdown</h3>
-                <p>Jupyter lab has external libraries or packages of pre-written code, that can be used for data analysis, math, and plotting. Such as Numpy                          ,MatplotLib, Scipy. Normally one would import the modules as:<br>
-                  import numpy as np <br>
-                  import scipy as sp<br>
-                   import matplotlib.pyplot as plt <br>
-                   from math import sin , pi </p>
+                <h3>2.</h3>
+                <p>Whenever control structures are used in Python—like loops (for, while), conditionals (if, elif, else), or functions (def)—the colon tells Python that the introductory statement is complete, and the actions inside that structure are about to follow. Variables are written in { }. Range of any variable is written in ( ) . Elements in [] creates Lists
+                 </p>
             </div>
             <div class="card">
-                <h3>3. Keyboard Shortcuts</h3>
-                <p>Speed up your workflow drastically using Command and Edit modes, cell execution shortcuts, and deletions.</p>
+                <h3>3.comments</h3>
+                <pWe can add text or comments using #.<br>
+                Ex--     #Chapter no.5.</p>
             </div>
             <div class="card">
-                <h3>4. Data & Visuals</h3>
-                <p>Import CSVs, run Pandas operations, and render beautiful Matplotlib/Seaborn plots directly inside your notebook.</p>
-            </div>
+                <h3>4.Keys</h3>
+                <p>Enter is pressed to go to next line<br>
+                Enter+ Shift is pressed to execute the commands.</p>
         </div>
     </section>
 
