@@ -254,7 +254,7 @@
             </div>
             <div class="card">
                 <h3>3.comments</h3>
-                <pWe can add text or comments using #.<br>
+                <p>We can add text or comments using #.<br>
                 Ex--     #Chapter no.5.</p>
             </div>
             <div class="card">
