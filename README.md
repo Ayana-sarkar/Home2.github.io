@@ -248,6 +248,8 @@
             <div class="card">
                 <h3>2.</h3>
                 <p>Whenever control structures are used in Python—like loops (for, while), conditionals (if, elif, else), or functions (def)—the colon tells Python that the introductory statement is complete, and the actions inside that structure are about to follow. Variables are written in { }. Range of any variable is written in ( ) . Elements in [] creates Lists
+                <img src="Screenshot 2026-06-08 113616.png" alt="Data Visualization" class="box-image">
+                <img src="Screenshot 2026-06-08 113643.png" alt="Data Visualization" class="box-image">
                  </p>
             </div>
             <div class="card">
@@ -261,10 +263,5 @@
                 Enter+ Shift is pressed to execute the commands.</p>
         </div>
     </section>
-
-    <footer>
-        <p>&copy; 2026 LearnJupyter Course. Built for future Data Scientists.</p>
-    </footer>
-
 </body>
 </html>
