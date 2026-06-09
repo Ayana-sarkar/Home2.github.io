@@ -201,13 +201,13 @@
     <section class="hero">
         <div class="hero-content">
             <h1><span>JupyterLab</span>Plots</h1>
+             <p>Welcome to the ultimate minimalist guide to data visualization. Here, we strip away the noise and focus entirely on mastering plotting inside JupyterLab. From basic line charts to complex interactive figures, learn how to turn your raw Python data into stunning, publication-ready visuals with clear, step-by-step tutorials.</p>
             <a href="https://ayana-sarkar.github.io/Home2.github.io/" class="btn">Basic</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab4.github.io/" class="btn">Plotting with List</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab5.github.io/" class="btn">Plotting with Arrays</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab2.github.io/" class="btn">Interpolation</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab1.github.io/" class="btn">Special func</a>
-            <a href="https://ayana-sarkar.github.io/JupyterLab3.github.io/" class="btn">Let's Practice More!</a>
-            <p>Welcome to the ultimate minimalist guide to data visualization. Here, we strip away the noise and focus entirely on mastering plotting inside JupyterLab. From basic line charts to complex interactive figures, learn how to turn your raw Python data into stunning, publication-ready visuals with clear, step-by-step tutorials.</p>
+            <a href="https://ayana-sarkar.github.io/JupyterLab3.github.io/" class="btn">Let's Practice More!</a> 
         </div>
         <div class="hero-visual">
             <div class="code-box">
