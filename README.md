@@ -1,5 +1,4 @@
 # Home2.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -198,22 +197,18 @@
 
     <nav>
         <div class="logo">🚀 Learn<span>Jupyter</span></div>
-        <div class="nav-links">
-            <a href="#curriculum">Curriculum</a>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
-        </div>
     </nav>
 
     <section class="hero">
         <div class="hero-content">
-            <h1>Master Data Science with <span>JupyterLab</span></h1>
+            <h1><span>JupyterLab</span>Plots</h1>
             <p>Go from absolute beginner to writing interactive Python code, building data visualizations, and managing notebooks like a pro.</p>
             <a href="https://ayana-sarkar.github.io/Home2.github.io/" class="btn">Basic</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab4.github.io/" class="btn">Plotting with List</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab5.github.io/" class="btn">Plotting with Arrays</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab2.github.io/" class="btn">Interpolation</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab1.github.io/" class="btn">Special func</a>
+            <a href="https://ayana-sarkar.github.io/JupyterLab3.github.io/" class="btn">Let's Practice More!</a>
         </div>
         <div class="hero-visual">
             <div class="code-box">
