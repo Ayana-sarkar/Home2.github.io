@@ -258,5 +258,8 @@
                 Enter+ Shift is pressed to execute the commands.</p>
         </div>
     </section>
+    <footer>
+    <a href="https://ayana-sarkar.github.io/JupyterLab4.github.io/" class="btn">Next</a>
+    </footer>
 </body>
 </html>
